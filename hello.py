@@ -1,3 +1,3 @@
 #new
-print("hellobye")
+print("konniciwa")
 print("thankyou")
